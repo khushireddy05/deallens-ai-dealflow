@@ -1,0 +1,29 @@
+{
+  "name": "Placeholder thesis: AI, Europe, pre-seed to Series A",
+  "ai_keywords": [
+    "ai",
+    "a.i.",
+    "artificial intelligence",
+    "machine learning",
+    "ml",
+    "deep learning",
+    "llm",
+    "large language model",
+    "generative ai",
+    "computer vision",
+    "nlp",
+    "natural language processing",
+    "neural network"
+  ],
+  "countries": [
+    "albania", "andorra", "austria", "belgium", "bosnia and herzegovina", "bulgaria",
+    "croatia", "cyprus", "czech republic", "czechia", "denmark", "estonia", "finland",
+    "france", "germany", "greece", "hungary", "iceland", "ireland", "italy", "latvia",
+    "liechtenstein", "lithuania", "luxembourg", "malta", "moldova", "monaco",
+    "montenegro", "netherlands", "the netherlands", "holland", "north macedonia",
+    "norway", "poland", "portugal", "romania", "serbia", "slovakia", "slovenia",
+    "spain", "sweden", "switzerland", "ukraine", "united kingdom", "uk",
+    "great britain", "england", "scotland", "wales", "northern ireland"
+  ],
+  "stages": ["pre-seed", "seed", "series-a"]
+}
