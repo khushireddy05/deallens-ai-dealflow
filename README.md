@@ -14,6 +14,7 @@ It takes a raw pitch (an email or form message), looks up the company's website,
 
 - Concept and background: [automated_dealflow_triage_enrichment_project.md](automated_dealflow_triage_enrichment_project.md)
 - What was built and the requirement IDs: [requirement.md](requirement.md)
+- Complete context for a new ChatGPT conversation: [CHATGPT_PROJECT_CONTEXT.md](CHATGPT_PROJECT_CONTEXT.md)
 
 ```mermaid
 flowchart LR
